@@ -1,0 +1,19 @@
+package week1day1;
+
+public class chrome {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		float version= 91.0f;
+		String dev = "Google";
+		boolean isbeta = false;
+		int releaseyear = 2008;
+		char shortcutkey ='c';
+ System.out.println ("Chrome version:" + version);
+ System.out.println ("Dev:" + dev);
+ System.out.println("Betaversion:" + isbeta);
+ System.out.println("releaseyear:" + releaseyear);
+ System.out.println("shortcut:" + shortcutkey);
+	}
+
+}
